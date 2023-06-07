@@ -1,0 +1,15 @@
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\bin\Debug\net7.0\proj_1.exe
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\bin\Debug\net7.0\proj_1.deps.json
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\bin\Debug\net7.0\proj_1.runtimeconfig.json
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\bin\Debug\net7.0\proj_1.dll
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\bin\Debug\net7.0\proj_1.pdb
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\proj_1.csproj.AssemblyReference.cache
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\proj_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\proj_1.AssemblyInfoInputs.cache
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\proj_1.AssemblyInfo.cs
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\proj_1.csproj.CoreCompileInputs.cache
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\proj_1.dll
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\refint\proj_1.dll
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\proj_1.pdb
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\proj_1.genruntimeconfig.cache
+C:\Users\kompa\OneDrive\Документы\гусь_проджекти\proj_1\proj_1\obj\Debug\net7.0\ref\proj_1.dll
